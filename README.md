@@ -1,3 +1,3 @@
-List of Gist.
+* List of Gist.
 Introduction to Linux
 
