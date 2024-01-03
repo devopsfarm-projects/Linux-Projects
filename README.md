@@ -4,7 +4,7 @@ Welcome to the Linux Project! This repository is dedicated to exploring and unde
 
 ## Table of Contents
 
-1. [Introduction to Linux](#introduction-to-linux)
+1. [Introduction to Linux](https://gist.github.com/abhiyanshh27/3d61f962b39e6c02415f0214a5ff7aec)
 2. [List of Gists](#list-of-gists)
 
 ## Introduction to Linux
