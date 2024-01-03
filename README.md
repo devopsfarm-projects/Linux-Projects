@@ -19,15 +19,17 @@ Linux is an open-source, Unix-like operating system kernel that serves as the fo
 - **Stability:** Known for its stability and reliability, Linux systems often have long uptimes without the need for frequent reboots.
 - **Variety of Distributions:** There are numerous Linux distributions (distros) tailored for different use cases, such as Ubuntu, Fedora, Debian, and CentOS.
 
-## List of Gists
 
-Explore our collection of Gists related to Linux:
+## List of Projects
 
-1. [Gist Title 1](#) - Brief description of the content.
-2. [Gist Title 2](#) - Brief description of the content.
-3. [Gist Title 3](#) - Brief description of the content.
+Explore our collection of Linux-related projects:
 
-Feel free to contribute by adding your own Gists or providing feedback.
+1. [Project Title 1](#) - Brief description of the project.
+2. [Project Title 2](#) - Brief description of the project.
+3. [Project Title 3](#) - Brief description of the project.
+
+Feel free to contribute by adding your own projects or providing feedback.
+
 
 ## Contributing
 
