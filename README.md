@@ -4,10 +4,7 @@ Welcome to the Linux Project! This repository is dedicated to exploring and unde
 
 ## Table of Contents
 
-1. [Introduction to Linux](https://gist.github.com/abhiyanshh27/3d61f962b39e6c02415f0214a5ff7aec)
-2. [List of Gists](#list-of-gists)
-
-## Introduction to Linux
+## [Introduction to Linux](https://gist.github.com/abhiyanshh27/3d61f962b39e6c02415f0214a5ff7aec)
 
 Linux is an open-source, Unix-like operating system kernel that serves as the foundation for various operating systems. It is known for its stability, security, and flexibility, making it a popular choice for servers, embedded systems, and desktop environments.
 
