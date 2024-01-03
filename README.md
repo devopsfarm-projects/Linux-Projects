@@ -29,12 +29,3 @@ Explore our collection of Linux-related projects:
 3. [Project Title 3](#) - Brief description of the project.
 
 Feel free to contribute by adding your own projects or providing feedback.
-
-
-## Contributing
-
-If you'd like to contribute to this project, please follow our [contribution guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the 
